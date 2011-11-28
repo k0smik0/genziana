@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Genziana</string>
+    
+    <string name="here_button_text">Here?</string>    
+    <string name="list_button_text">list</string>
+    <string name="map_button_text">map</string>
+
+</resources>

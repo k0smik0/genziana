@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="roboguice_modules">
+		<!-- 
+		<item>net.iubris.mobile.swsa.application.modules.ConstantModule</item>
+  	<item>net.iubris.mobile.swsa.application.modules.DelegateModule</item>
+  	<item>net.iubris.mobile.swsa.application.modules.DialogModule</item>
+  	<item>net.iubris.mobile.swsa.application.modules.EnhancedNotificationModule</item>
+  	<item>net.iubris.mobile.swsa.application.modules.LocationModule</item>
+  	<item>net.iubris.mobile.swsa.application.modules.ObserversModule</item>
+  	<item>net.iubris.mobile.swsa.application.modules.ServiceModule</item>
+  	-->
+  	<item>net.iubris.hermes._roboguice.module.HermesModule</item>
+  	<item>net.iubris.prometeus._roboguice.module.PrometeusModule</item>
+  	<item>net.iubris.ulysses._roboguice.module.UlyssesModule</item>
+  </string-array> 
+</resources>
